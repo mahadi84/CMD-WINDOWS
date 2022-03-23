@@ -3,10 +3,12 @@
 SHORT CODE FOR:   > Uninstall Soft (Control Pan.)    > Network ICON (Control Panel)
                   > Printers                         > Date and Time
                   > Computer/Domain Name             > Admin User Accounts
-                  > Check Windows Activation         > Windows Settings
+                  > Check Windows Activation(CMD)    > Windows Settings
 
 
 
+WINDOWS RUN/COMMAND PROMPT/SEARCH COMMAND:
+------------------------------------------
 
 UNINSTALL OR CHANGE A PROGRAM:  appwiz.cpl
 NETWORK CONNECTIONS (ETHERNET): ncpa.cpl     (Network Control Panel)
