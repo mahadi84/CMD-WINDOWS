@@ -1,0 +1,48 @@
+
+
+Short code for : 01. Uninstall Soft (Control Pan.)    02. Network ICON (Control Panel)
+                 03. Printers                         04. Date and Time
+                 05. Computer/Domain Name             06. Admin User Accounts
+                 07. Check Windows Activation         08. Windows Settings
+
+
+
+
+
+
+UNINSTALL OR CHANGE A PROGRAM:  appwiz.cpl
+NETWORK CONNECTIONS (ETHERNET): ncpa.cpl     (Network Control Panel)
+OPEN PRINTERS: 			control printers
+COMPUTER/DOAMIN NAME:  		sysdm.cpl
+TIME/DATE CHANGE:  		timedate.cpl
+WINDWOS FIREWALL:		firewall.cpl
+
+Manage User Accounts:— 		netplwiz	CMD: net users   net_user_id  /active:no  /delete
+
+Windows Version Check:	        winver
+Windows Check(Active/Inactive): slmgr/xpr
+Windows activate:               slmgr /skms 172.16.254.145:1688       
+Windows Settings: 	        Windows key + I
+Windows Task Manager: 	        Ctrl+Shift+Esc
+Windows RESOLUTION :	        desk.cpl
+
+Take Customized Screenshot: 	Ctrl+Shift+S
+
+
+Open Windows Registry:— regedit
+Open local group policy editor:- gpedit.msc
+	
+
+Access Resource Monitor — 	 resmon
+System Information — 		 msinfo32/dxdiag
+Windows Features — 		 optionalfeatures (enable features like Telnet client or Hyper-V.)
+Device Manager — 		 devmgmt.msc
+Current user folder — 		 . (Only fullstop)
+On-Screen Keyboard — 		 osk
+Windows Memory(RAM) Diagnostic — mdsched
+Remote Desktop Connection — 	 mstsc
+
+
+
+
+	
