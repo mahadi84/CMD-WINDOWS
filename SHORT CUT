@@ -21,7 +21,7 @@ Manage User Accounts:— 		netplwiz	CMD: net users   net_user_id  /active:no  /d
 
 Windows Version Check:	        winver
 Windows Check(Active/Inactive): slmgr/xpr
-Windows activate:               slmgr /skms 172.16.254.145:1688       
+Windows activate:               slmgr /skms 172.16.254.145:1688 (Only for Pubali)
 Windows Settings: 	        Windows key + I
 Windows Task Manager: 	        Ctrl+Shift+Esc
 Windows RESOLUTION :	        desk.cpl
