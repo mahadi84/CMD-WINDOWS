@@ -1,6 +1,6 @@
 
 
-SHORT CUT FOR:    > Uninstall Soft (Control Pan.)    > Network ICON (Control Panel)
+SHORT CUT FOR:    > Add/Remove program Propertise    > Network Connections (Ethernet ICON)
                   > Printers                         > Date and Time
                   > Computer/Domain Name             > Admin User Accounts
                   > Check Windows Activation(CMD)    > Windows Settings
@@ -10,10 +10,10 @@ SHORT CUT FOR:    > Uninstall Soft (Control Pan.)    > Network ICON (Control Pan
 WINDOWS RUN/COMMAND PROMPT/SEARCH COMMAND:
 ------------------------------------------
 
-UNINSTALL OR CHANGE A PROGRAM:  appwiz.cpl
-NETWORK CONNECTIONS (ETHERNET): ncpa.cpl     (Network Control Panel)
-OPEN PRINTERS: 			control printers
-COMPUTER/DOAMIN NAME:  		sysdm.cpl
+ADD/REMOVE PROGRAM PROPERTISE : appwiz.cpl        (Application Manager)
+NETWORK CONNECTIONS (ETHERNET): ncpa.cpl          (Network Control Panel)
+PRINTERS: 			control printers
+COMPUTER/DOAMIN NAME:  		sysdm.cpl         (System Device Manager)
 TIME/DATE CHANGE:  		timedate.cpl
 WINDWOS FIREWALL:		firewall.cpl
 
