@@ -1,11 +1,9 @@
 
 
-Short code for : 01. Uninstall Soft (Control Pan.)    02. Network ICON (Control Panel)
-                 03. Printers                         04. Date and Time
-                 05. Computer/Domain Name             06. Admin User Accounts
-                 07. Check Windows Activation         08. Windows Settings
-
-
+SHORT CODE FOR:   > Uninstall Soft (Control Pan.)    > Network ICON (Control Panel)
+                  > Printers                         > Date and Time
+                  > Computer/Domain Name             > Admin User Accounts
+                  > Check Windows Activation         > Windows Settings
 
 
 
