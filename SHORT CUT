@@ -13,7 +13,7 @@ WINDOWS RUN/COMMAND PROMPT/SEARCH COMMAND:
 ADD/REMOVE PROGRAM PROPERTISE : appwiz.cpl        (Application Manager)
 NETWORK CONNECTIONS (ETHERNET): ncpa.cpl          (Network Control Panel)
 PRINTERS: 			control printers
-COMPUTER/DOAMIN NAME:  		sysdm.cpl         (System Device Manager)
+COMPUTER/DOMAIN NAME:  		sysdm.cpl         (System Device Manager)
 TIME/DATE CHANGE:  		timedate.cpl
 WINDWOS FIREWALL:		firewall.cpl
 
