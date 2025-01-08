@@ -1,3 +1,8 @@
 
+
 net localgroup Administrators
-net user administrator Password@123 /active:yes
+net user administrator Pubali@123 /active:yes
+
+
+
+-
